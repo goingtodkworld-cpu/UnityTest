@@ -8,6 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         Debug.Log("성광이 병합을 냄");
+        Debug.Log("성광이 병합을 또 냄");
     }
 
     // Update is called once per frame
