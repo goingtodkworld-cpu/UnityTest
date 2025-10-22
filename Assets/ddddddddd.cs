@@ -8,6 +8,11 @@ public class ddddddddd : MonoBehaviour
     void Start()
     {
         Debug.Log("아무거나");
+        Debug.Log("아무거나");
+        Debug.Log("아무거나");
+        Debug.Log("아무거나");
+        Debug.Log("아무거나");
+        Debug.Log("아무거나");
     }
 
     // Update is called once per frame
