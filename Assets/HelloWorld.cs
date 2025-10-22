@@ -7,7 +7,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("한글이 써지네요");
+        Debug.Log("한글한글한글");
     }
 
     // Update is called once per frame
